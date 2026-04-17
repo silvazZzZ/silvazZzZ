@@ -22,4 +22,5 @@ Sou um desenvolvedor em formação com foco em criar soluções funcionais e vis
 
 # Minhas contribuições
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvazZzZ&theme=dark&snow_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvazZzZ&show_icons=true&theme=shadow_red)
+
